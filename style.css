@@ -12,7 +12,7 @@
 
 .jumbotron {
   background-image:url(http://i.imgur.com/8mw0a9Q.jpg);
-  height: 800px;
+  height: 1000px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -23,8 +23,8 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 148px;  
+  color: #75DF98;
+  font-size: 100px;  
   font-family: 'pacifico', sans-serif;
   font-weight: bold;
   position: middle;
