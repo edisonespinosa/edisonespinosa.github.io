@@ -27,7 +27,7 @@
   font-size: 100px;  
   font-family: 'pacifico', sans-serif;
   font-weight: bold;
-  position: middle;
+  position: absolute; left:-500px; top:30px;
 }
 
 .jumbotron p {
