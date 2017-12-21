@@ -23,6 +23,8 @@
 }
 
 .jumbotron h1 {
+  display:flex;
+  justify-content: center;
   color: #75DF98;
   font-size: 100px;  
   font-family: 'pacifico', sans-serif;
